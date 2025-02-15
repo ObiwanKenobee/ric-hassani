@@ -2,7 +2,7 @@
 
 Passion Catalyst is an open-source platform designed to help individuals explore, discover, and engage with their passions while balancing their practical responsibilities. Whether it’s poetry, art, music, or storytelling, Passion Catalyst connects you with tools, inspiration, and a like-minded community to ignite your creativity and make time for what truly matters.
 
----Poets society
+---Living Poets society
 
 ## Features
 
